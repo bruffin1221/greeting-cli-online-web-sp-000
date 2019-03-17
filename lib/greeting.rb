@@ -1,3 +1,3 @@
-def greeting(name=gets.strip)
-  puts "Hello #{name}. It's nice to meet you."
+def greeting(name)
+  puts "Hello #{name=get.strip}. It's nice to meet you."
 end
